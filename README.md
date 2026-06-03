@@ -8,13 +8,13 @@ Homepage: https://volnos.org · [Discussions](https://github.com/VolnOS-Org/tick
 
 ## Welcome
 
-This repository is the **community hub for VolnOS** — the place where users from anywhere in the world talk to the project. If you have a bug to report, a feature to request, a question to ask, or feedback to share, **you're in the right place.**
+This repository is the **support and feedback hub for VolnOS** — the place where users from anywhere in the world talk to the project. If you have a bug to report, a feature to request, a question to ask, or feedback to share, **you're in the right place.**
 
-VolnOS is **free for anyone to download and use.** It is built and maintained by a dedicated team, and while the source code is not publicly distributed, the project is shaped in the open: your reports, ideas, and feedback directly guide where VolnOS goes next.
+VolnOS is **free for anyone to download and use.** It is built and maintained by a dedicated team; the source code is proprietary and not publicly distributed. Your reports, ideas, and feedback directly guide where VolnOS goes next.
 
 ## What is VolnOS?
 
-VolnOS is a general-purpose Linux operating system, built on **Ubuntu 24.04 LTS**, designed to be approachable for everyday users. Two things make it stand out:
+VolnOS is a general-purpose Linux operating system, built on **Ubuntu 24.04 LTS**, designed to be approachable for everyday users — **no terminal required**. Two things make it stand out:
 
 - **Runs Windows apps by default.** Powered by Wine and preconfigured at the system level — double-click an `.exe` or `.msi` and it just runs, with no manual setup.
 - **Safe over-the-air updates.** Updates are built right into Settings and use an **A/B partition** scheme with **automatic rollback**, so a failed or interrupted update can't leave your system broken.
@@ -78,8 +78,6 @@ We want VolnOS to be a friendly, respectful place for people of every background
 VolnOS is **free to download and use** for everyone. The source code is proprietary and is not publicly distributed.
 
 VolnOS is built on Ubuntu and other components that carry their own open-source licenses (including copyleft licenses such as the GPL/LGPL); those components remain under their respective licenses, and the corresponding source for them is made available as those licenses require.
-
-*(Full end-user terms and the component license/attribution notices will be linked here — placeholder. Confirm license-compliance details before public release.)*
 
 ---
 
